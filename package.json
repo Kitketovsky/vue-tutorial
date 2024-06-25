@@ -11,6 +11,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@maskito/kit": "^2.4.0",
+    "@maskito/vue": "^2.4.0",
     "vue": "^3.4.29"
   },
   "devDependencies": {
